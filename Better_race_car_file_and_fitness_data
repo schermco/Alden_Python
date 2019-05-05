@@ -1,0 +1,12 @@
+Hi Alden!!
+Here's a better race car data file.  Data Quality is part of the lesson.  If the files are bad, you will want to flag the bad data.  We can discuss on our call.
+
+There's a new file too.  This one is a simulation for fitness tracking.  The goal is to build logic with if statements to check conditions.
+The rule set for the fitness tracking is that each person gets a Gold rating for having 75 or more pushups in one day AND 7500 steps or more in one day.
+If they didn't qualify for gold, but have 50 or more pushups and 5000 or more steps, they get a Silver rating.  
+If they didn't qualify for silver, but have 25 or more pushups and 2500 or more steps, they get a Bronze rating.
+
+How many people earned a gold rating?
+Silver?
+Bronze?
+
