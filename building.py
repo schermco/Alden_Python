@@ -1,0 +1,14 @@
+from mpci.minecraft import Minecraft
+mc = Minecraft.create()
+pos = mc.player.getPos()
+x = pos.x
+y = pos.y
+z = pos.z
+width 10
+height = 5
+length = 6
+blockType = 4
+air = 0
+mc.SetBlocks(x, y, z, x + width, y + height, z + length, blockType)
+
+mc.SetBlocks(x + 1, y + 1, z +1, x + width, y + height - 1, z + length - 1, air)
